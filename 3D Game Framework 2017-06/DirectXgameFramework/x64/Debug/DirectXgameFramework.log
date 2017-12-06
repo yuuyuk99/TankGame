@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  Window.cpp
+\\mac\home\desktop\名大 情報文化\3d game framework 2017-06\directxgameframework\window.cpp(160): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "pch.h"' をソースに追加しましたか?
+  Main.cpp
+\\mac\home\desktop\名大 情報文化\3d game framework 2017-06\directxgameframework\game.h(13): fatal error C1083: include ファイルを開けません。'SimpleMath.h':No such file or directory
+  Grid.cpp
+\\mac\home\desktop\名大 情報文化\3d game framework 2017-06\directxgameframework\grid.cpp(145): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "pch.h"' をソースに追加しましたか?
+  Graphics.cpp
+\\mac\home\desktop\名大 情報文化\3d game framework 2017-06\directxgameframework\graphics.cpp(233): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "pch.h"' をソースに追加しましたか?
+  Game.cpp
+\\mac\home\desktop\名大 情報文化\3d game framework 2017-06\directxgameframework\game.h(13): fatal error C1083: include ファイルを開けません。'SimpleMath.h':No such file or directory
+  DebugCamera.cpp
+\\mac\home\desktop\名大 情報文化\3d game framework 2017-06\directxgameframework\debugcamera.cpp(96): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "pch.h"' をソースに追加しましたか?
+  コードを生成中...
