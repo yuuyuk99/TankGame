@@ -1,0 +1,14 @@
+﻿  Resources\Models\BackScreen\back.FBX
+  Resources\Models\Bullet\bullet.FBX
+  Resources\Models\MapData\box.FBX
+  Resources\Models\MapData\floor.FBX
+  Resources\Models\MapData\Grass.FBX
+  Resources\Models\Tank\Body.FBX
+  Resources\Models\Tank\turret.FBX
+  Resources\Models\TitleScene\title.FBX
+  Resources\Models\Tower\cTower.FBX
+  Shoot.cpp
+  Move.cpp
+  コードを生成中...
+  DirectXgameFramework.vcxproj -> C:\Users\s152038\Documents\Visual Studio 2015\Projects\3D Game Framework 2017-06\Debug\3D Game Framework.exe
+  DirectXgameFramework.vcxproj -> C:\Users\s152038\Documents\Visual Studio 2015\Projects\3D Game Framework 2017-06\Debug\3D Game Framework.pdb (Full PDB)
